@@ -1,2 +1,2 @@
 config SHIELD_PROTO2
-    def_bool $(shield_list_contains, proto2)
+    def_bool $(shield_list_contains,proto2)
