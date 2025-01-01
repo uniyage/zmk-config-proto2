@@ -1,0 +1,6 @@
+if SHIELD_PROTO2
+
+config ZMK_KEYBOARD_NAME
+    default "proto2"
+
+endif
